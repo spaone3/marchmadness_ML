@@ -27,6 +27,7 @@ Download the dataset from Kaggle's [March Machine Learning Mania 2025](https://w
 Save all files to:
     ```bash
     /data/
+    ```
 
 ### 3. Download Massey Ratings
 
@@ -38,6 +39,7 @@ To perform clustering, you'll need Massey Ratings data:
     ```bash
     data/MMasseyRatings/mens/
     data/MMasseyRatings/womens/
+    ```
 
 ## 🚀 Usage Pipeline
 
@@ -45,8 +47,23 @@ To perform clustering, you'll need Massey Ratings data:
 Run the Jupyter notebook:
     ```bash
     z_finalproj/preprocessdata.ipynb
+    ```
 
 ### Model Training & Analysis
 Run the notebooks in your perferred order
+
+
+## Folder Hierarchy
+.
+├── data/                   # Raw data storage
+│   ├── MMasseyRatings/     # Massey ratings by gender
+│   │   ├── mens/           # Men's ratings
+│   │   └── womens/         # Women's ratings
+│   └── [kaggle_data]       # Competition files
+├── notebooks/              # Analysis notebooks
+│   ├── preprocessdata.ipynb
+│   └── [model_notebooks]
+├── requirements.txt        # Python dependencies
+└── README.md
 
 
