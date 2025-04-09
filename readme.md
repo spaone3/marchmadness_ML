@@ -14,8 +14,8 @@ A machine learning pipeline for predicting NCAA March Madness tournament outcome
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-
-
+    ```
+    
 ## 📂 Data Acquisition
 
 ### 2. Download Tournament Data
