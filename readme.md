@@ -44,7 +44,7 @@ To perform clustering, you'll need Massey Ratings data:
 ### Preprocessing
 Run the Jupyter notebook
     ```bash
-    preprocessdata.ipynb
+    z_finalproj/preprocessdata.ipynb
 
 ### Model Training & Analysis
 Run the notebooks in your perferred order
