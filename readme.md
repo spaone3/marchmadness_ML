@@ -15,7 +15,7 @@ A machine learning pipeline for predicting NCAA March Madness tournament outcome
    ```bash
    pip install -r requirements.txt
     ```
-    
+
 ## 📂 Data Acquisition
 
 ### 2. Download Tournament Data
@@ -46,6 +46,3 @@ Run the Jupyter notebook:
 
 ### Model Training & Analysis
 Run the notebooks in your perferred order
-
-
-
