@@ -42,7 +42,7 @@ To perform clustering, you'll need Massey Ratings data:
 ## 🚀 Usage Pipeline
 
 ### Preprocessing
-Run the Jupyter notebook
+Run the Jupyter notebook:
     ```bash
     z_finalproj/preprocessdata.ipynb
 
